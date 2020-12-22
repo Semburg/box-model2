@@ -1,0 +1,30 @@
+/* font-family: 'Literata', serif;
+font-family: 'Montserrat', sans-serif; */
+
+h2{
+    color: red;
+}
+
+p{
+    font-family: 'Literata', serif;
+    font-size: 16px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    width: 100px;
+    border: green 3px solid;
+    border-radius: 50%;
+}
+
+div{
+    width: 60%;
+    background-color: lightgray ;
+}
+
+div p:first-child{
+    color: green;
+}
